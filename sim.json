@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "github.com/scorredoira/cli": "latest",
+    "github.com/scorredoira/getargs": "latest"
+  }
+}
